@@ -1,0 +1,12 @@
+-I/usr/local/include
+-I/usr/local/include/opencv
+-I/home/zjl/HRG_hand/Hrg手势识别/8_Mp3/2_HRG_MP3/./include
+-I/usr/local/include
+-I/usr/local/include/opencv
+-I/home/zjl/libtorch/include
+-I/home/zjl/libtorch/include/torch/csrc/api/include
+-I/home/zjl/HRG_hand/Hrg手势识别/8_Mp3/2_HRG_MP3
+-I/home/zjl/HRG_hand/Hrg手势识别/8_Mp3/2_HRG_MP3/build
+-o
+/home/zjl/HRG_hand/Hrg手势识别/8_Mp3/2_HRG_MP3/build/moc_widget.cpp
+/home/zjl/HRG_hand/Hrg手势识别/8_Mp3/2_HRG_MP3/widget.h
